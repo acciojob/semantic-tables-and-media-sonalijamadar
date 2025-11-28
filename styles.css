@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+table{
+	width: 200px;
+	border-collapse: collapse;
+}
+
+td, th{
+	border: 1px solid black;
+	text-align: center;
+}
+li img{
+	width: 200px;
+	height: 200px;
+}
+li video{
+	width: 300px;
+}
